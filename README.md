@@ -10,5 +10,5 @@ Simple port scanner written in Python.
 
 ## Usage
 ### bash
-python "port scanner ver1.py" 192.168.1.1
+python "port_scanner_ver1.py" 192.168.1.1
 
